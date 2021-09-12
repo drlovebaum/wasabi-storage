@@ -7,7 +7,7 @@ This packages uses the AWS S3 storage driver but changes it to use Wasabi endpoi
 ## Installation
 
 ```bash
-composer require probablyrational/wasabi-storage
+composer require drlovebaum/wasabi-storage
 ```
 
 If you are on Laravel 5.4 or earlier, then register the service provider in app.php
