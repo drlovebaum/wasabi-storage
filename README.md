@@ -1,3 +1,7 @@
+# Note about fork
+
+This fork makes the package available on PHP 8. I recommend using the original package if you do not require PHP 8 or if that package begins supporting PHP 8.
+
 # wasabi-storage
 
 A [Wasabi](https://wasabi.com/) storage driver for Laravel.
